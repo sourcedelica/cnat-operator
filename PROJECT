@@ -1,0 +1,7 @@
+domain: my.domain
+repo: github.com/sourcedelica/cnat-operator
+resources:
+- group: cnat.programming-kubernetes.info
+  kind: At
+  version: v1alpha1
+version: "2"
